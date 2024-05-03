@@ -69,7 +69,7 @@ p {
 /* Buttons */
 
 .main-button a {
-    background-color: #f5a425;
+    background-color: #045816;
     color: #fff;
     font-size: 13px;
     text-transform: uppercase;
@@ -130,7 +130,7 @@ a.menu-link { display: none; }
   }
   nav[role="navigation"] li:hover a,
   nav[role="navigation"] li.active a {
-      color: #f5a425;
+      color: #045816;
   }
   
   @media screen and (min-width: 951px) {
@@ -191,7 +191,7 @@ a.menu-link { display: none; }
 }
 .main-header .logo a em {
     font-style: normal;
-    color: #f5a425;
+    color: #045816;
 }
 
 .main-menu {
@@ -273,13 +273,13 @@ a.menu-link { display: none; }
 }
 
 .main-menu li .sub-menu li a:hover {
-    color: #f5a425;
+    color: #045816;
     border: none;
 }
 
 .main-nav li:hover a,
 .main-nav li.active a {
-    border: 2px solid #f5a425;
+    border: 2px solid #045816;
 }
 
 @media (max-width: 950px) {
@@ -352,7 +352,7 @@ a.menu-link { display: none; }
 
 .main-banner .caption h2 em {
   font-style: normal;
-  color: #f5a425;
+  color: #045816;
   font-weight: 900;
 }
 
@@ -412,7 +412,7 @@ section.features .col-4 {
 }
 
 .features-content:hover {
-    background-color: #f5a425;
+    background-color: #045816;
     box-shadow: 0px 0px 30px rgba(0,0,0,0.5);
 }
 
@@ -569,15 +569,15 @@ section.why-us {
 #tabs ul .ui-tabs-active {
 }
 #tabs ul .ui-tabs-active a {
-  color: #f5a425;
+  color: #045816;
 }
 #tabs ul .ui-tabs-active a:after {
-  background-color: #f5a425;
+  background-color: #045816;
   width: 15px;
   height: 15px;
 }
 #tabs ul .ui-tabs-active a:before {
-  border-color: #f5a425;
+  border-color: #045816;
 }
 #tabs h4 {
     margin-top: 60px;
@@ -646,7 +646,7 @@ section.coming-soon .continer h4 {
 }
 section.coming-soon .continer h4 em {
     font-style: normal;
-    color: #f5a425;
+    color: #045816;
 }
 
 @media screen and (max-width: 767px) {
@@ -709,7 +709,7 @@ section.coming-soon .continer .counter .seconds .value {
 section.coming-soon .continer .counter span {
     font-size: 18px;
     text-transform: uppercase;
-    color: #f5a425;
+    color: #045816;
     font-weight: 500;
     letter-spacing: 1px;
     margin-top: 0px;
@@ -781,7 +781,7 @@ section.coming-soon form input::placeholder { color: #fff; }
 
 section.coming-soon form button {
     margin-top: 10px;
-    background-color: #f5a425;
+    background-color: #045816;
     color: #fff;
     font-size: 13px;
     text-transform: uppercase;
@@ -835,7 +835,7 @@ section.courses .item .down-content p {
 
 section.courses .item .down-content img {
     width: 40px;
-    border: 2px solid #f5a425;
+    border: 2px solid #045816;
     border-radius: 50%;
     text-align: left;
     display: inline-block;
@@ -848,7 +848,7 @@ section.courses .item .down-content .text-button-pay {
 }
 
 section.courses .item .down-content .text-button-pay a {
-    color: #f5a425;
+    color: #045816;
     font-size: 13px;
 }
 
@@ -879,7 +879,7 @@ section.courses .owl-carousel button.owl-dot {
     outline: none;
 }
 section.courses .owl-carousel button.active {
-    background-color: #f5a425;
+    background-color: #045816;
 }
 
 
@@ -917,7 +917,7 @@ section.video .left-content h4 {
 }
 section.video .left-content h4 em {
     font-style: normal;
-    color: #f5a425;
+    color: #045816;
 }
 
 section.video .left-content .main-button {
@@ -962,7 +962,7 @@ section.video .left-content .main-button {
   margin-top: -32.5px;
   margin-left: -32.5px;
   border-radius: 50%;
-  background-color: #f5a425;
+  background-color: #045816;
   z-index: 10;
 }
 .video-item figure a:after {
@@ -978,7 +978,7 @@ section.video .left-content .main-button {
   z-index: 10;
 }
 .video-item figure a:hover:before {
-  background-color: #f5a425;
+  background-color: #045816;
 }
 
 .video-item .video-caption {
@@ -1517,7 +1517,7 @@ section.contact form textarea::placeholder { color: #fff; }
 section.contact form textarea::placeholder { color: #fff; }
 
 section.contact form button {
-    background-color: #f5a425;
+    background-color: #045816;
     color: #fff;
     font-size: 13px;
     text-transform: uppercase;
@@ -1549,7 +1549,7 @@ footer p {
 
 footer p a,
 footer p a:hover {
-    color: #f5a425;
+    color: #045816;
 }
 
 @media screen and (max-width: 992px) {
